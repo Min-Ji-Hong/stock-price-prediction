@@ -4,7 +4,7 @@
 
 **Team:** Minseo Kim, **Jihong Min**, Dayoon Lee
 
-📄 [Report / Slides](./docs/Stock_Price_Prediction.pdf)
+📄 [Report / Slides](./Stock_Price_Prediction.pdf)
 
 ---
 
